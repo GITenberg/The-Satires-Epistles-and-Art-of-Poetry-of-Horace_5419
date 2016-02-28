@@ -1,0 +1,36 @@
+_repo: The-Satires-Epistles-and-Art-of-Poetry-of-Horace_5419
+contributor:
+  translator:
+    agent_name: Conington, John
+    alias: Conington, J. (John)
+    birthdate: 1825
+    deathdate: 1869
+    gutenberg_agent_id: '1791'
+    url: http://www.gutenberg.org/2009/agents/1791
+    wikipedia: http://en.wikipedia.org/wiki/John_Conington
+creator:
+  author:
+    agent_name: Horace
+    alias: Horatius Flaccus, Quintus
+    birthdate: -65
+    deathdate: -8
+    gutenberg_agent_id: '1790'
+    url: http://www.gutenberg.org/2009/agents/1790
+    wikipedia: http://en.wikipedia.org/wiki/Horace
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Verse satire, Latin -- Translations into English'
+- !lcsh 'Rome -- Poetry'
+- !lcsh 'Horace -- Translations into English'
+- !lcsh 'Epistolary poetry, Latin -- Translations into English'
+- !lcc 'PA'
+title: The Satires, Epistles, and Art of Poetry of Horace
+url: http://www.gutenberg.org/ebooks/5419
