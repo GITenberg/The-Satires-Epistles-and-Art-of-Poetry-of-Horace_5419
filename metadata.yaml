@@ -1,5 +1,5 @@
 _repo: The-Satires-Epistles-and-Art-of-Poetry-of-Horace_5419
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Conington, John
@@ -38,5 +38,6 @@ subjects:
 - !lcsh 'Horace -- Translations into English'
 - !lcsh 'Epistolary poetry, Latin -- Translations into English'
 - !lcc 'PA'
+- GITenberg
 title: The Satires, Epistles, and Art of Poetry of Horace
 url: http://www.gutenberg.org/ebooks/5419
